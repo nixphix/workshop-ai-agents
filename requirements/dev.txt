@@ -1,0 +1,4 @@
+-r dev-tools.txt
+
+crewai==0.86.0
+crewai-tools==0.17.0
