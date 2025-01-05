@@ -3,7 +3,7 @@
 ```sh
 brew instal miniconda
 conda create -n sentinel python=3.12
-conda init
+conda init zsh
 ```
 
 ## Activate enviroment and install dependencies
